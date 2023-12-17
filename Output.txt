@@ -1,0 +1,27 @@
+AnnotatedClass.java
+Java Doc : This is annotated Class
+
+
+Method Annotation Not Present 
+
+AnnotatedClass1.java
+Java Doc : Nothing Available
+
+Annotated Method: exampleMethod
+Java Doc : Nothing Available
+
+AnnotatedMethod.java
+Java Doc : This Annotated class with annotated method
+
+
+Annotated Method: annotatedMethod
+Java Doc : This is annotatedMethod
+
+
+AnnotatedMethod1.java
+Class Annotation Not Present 
+
+Annotated Method: annotatedMethod
+Java Doc : This Annotated twice
+
+
